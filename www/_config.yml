@@ -1,0 +1,18 @@
+title: G. Saint-Raymond
+email: contact@gstraymond.fr
+description: 
+  \<Insert smart quote here\>
+url: http://gstraymond.fr
+#baseurl: /new
+twitter_username: gstraymond
+github_username:  gstraymond
+lang: en
+logo: /assets/icons/icon.jpg
+
+accent_image: /assets/img/bg.jpg
+accent_color: '#AAAAAA'
+theme_color: '#000000'
+
+markdown: kramdown
+#theme: jekyll-theme-basically-basic
+theme: jekyll-theme-hydejack
